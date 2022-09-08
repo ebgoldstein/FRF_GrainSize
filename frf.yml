@@ -1,0 +1,12 @@
+name: frf
+channels:
+  - defaults
+dependencies:
+  - notebook
+  - matplotlib
+  - pandas
+  - opencv
+  - pyyaml
+  - scipy
+  - openpyxl
+  - ipywidgets
