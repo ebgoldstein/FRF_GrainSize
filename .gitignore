@@ -2,6 +2,8 @@
 /data/masks/
 /data/AeolisGrids/
 /data/c6_test
+/data/c1_test
+/data/TVdata
 /data/GrainSize/
 /src/.ipynb*
 /src/model
